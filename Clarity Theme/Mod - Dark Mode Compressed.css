@@ -73,18 +73,18 @@ a,a:hover {
 
 @media (max-width:1920px) {
   .cover-block {
-    background-image: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity%20Theme/Images/Dark%20Mode%20Small(1080p)%20Lossy(75).jpg);
+    background-image: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity Theme/Images/Dark Mode Small(1080p) Lossy(75).jpg);
   }
 }
 
 @media (min-width:1921px) {
   .cover-block {
-    background-image: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity%20Theme/Images/Dark%20Mode%20Large(UHD)%20Lossy(75).jpg);
+    background-image: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity Theme/Images/Dark Mode Large(UHD) Lossy(75).jpg);
   }
 }
 
 #cover-image-container {
-  background-image: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity%20Theme/Images/Dark%20Mode%20Yui.png);
+  background-image: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity Theme/Images/Dark Mode Yui.png);
 }
 
 #cover-image-container:after {
