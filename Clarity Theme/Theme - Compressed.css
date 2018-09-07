@@ -382,13 +382,13 @@ a,a:hover {
 
 @media (max-width:1920px) {
   .cover-block {
-    background-image: url(http://i.imgur.com/30p9zca.jpg);
+    background-image: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity%20Theme/Images/Light%20Mode%20Small(1080p)%20Lossy(85).jpg);
   }
 }
 
 @media (min-width:1921px) {
   .cover-block {
-    background-image: url(http://i.imgur.com/gqcj6sM.jpg);
+    background-image: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity%20Theme/Images/Light%20Mode%20Large(4K)%20Lossy(85).jpg);
   }
 }
 
@@ -398,7 +398,7 @@ a,a:hover {
   height: 100%;
   padding: 0;
   margin: 0 auto;
-  background: url(http://i.imgur.com/is2e80Q.png) right center/contain no-repeat;
+  background: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity%20Theme/Images/Light%20Mode%20Yui.png) right center/contain no-repeat;
 }
 
 #cover-image-container .image-container {
@@ -1595,7 +1595,7 @@ a,a:hover {
 
 #advanced-options [class*="-widget"] select {
   padding-right: 16px;
-  background: url(https://i.imgur.com/hFijppc.png) center right/16px auto no-repeat;
+  background: url(https://mrboms.github.io/MAL-Public-List-Designs-ValerioLyndon/Clarity%20Theme/Images/Light%20Mode%20Expand%20Arrow.png) center right/16px auto no-repeat;
 }
 
 #advanced-options [class*="-widget"] input:focus,#advanced-options [class*="-widget"] select:focus {
